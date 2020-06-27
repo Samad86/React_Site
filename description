@@ -1,0 +1,7 @@
+- адаптивное меню (Bootstrap)
+- роутинг, переход по страницам (React Router)
+- слайдер (Bootstrap) - страница Home
+- карточки Cards (Bootstrap) - страница Home
+- адаптивные вкладки (Tab) - страница About us
+- форма обратной связи (Bootstrap) - страница Contacts
+- блог посты (статичная верстка), виджет с категориями - Accordion (Bootstrap) - страница Blog
